@@ -1,0 +1,7 @@
+{
+  "name": "Resize Half-Tiled",
+  "description": "Improve behavior of the resize shortcut on half-tiled windows",
+  "uuid": "resize-half-tiled@rliang.github.com",
+  "url": "https://github.com/rliang/gnome-shell-extension-resize-half-tiled",
+  "shell-version": ["3.18", "3.20", "3.22", "3.24", "3.26"]
+}
